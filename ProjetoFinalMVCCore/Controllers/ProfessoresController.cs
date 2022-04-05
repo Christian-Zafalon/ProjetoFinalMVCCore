@@ -150,5 +150,6 @@ namespace ProjetoFinalMVCCore.Controllers
         {
             return _EFContext.Professor.Any(e => e.Id == id);
         }
+
     }
 }
