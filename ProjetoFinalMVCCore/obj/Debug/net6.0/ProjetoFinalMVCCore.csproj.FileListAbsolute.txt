@@ -261,3 +261,8 @@ C:\Users\Administrador\Documents\Projetos .NET\ProjetoFinalMVCCore\ProjetoFinalM
 C:\Users\Administrador\Documents\Projetos .NET\ProjetoFinalMVCCore\ProjetoFinalMVCCore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\Administrador\Documents\Projetos .NET\ProjetoFinalMVCCore\ProjetoFinalMVCCore\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\Administrador\Documents\Projetos .NET\ProjetoFinalMVCCore\ProjetoFinalMVCCore\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Administrador\Documents\Projetos .NET\ProjetoFinalMVCCore\ProjetoFinalMVCCore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Administrador\Documents\Projetos .NET\ProjetoFinalMVCCore\ProjetoFinalMVCCore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrador\Documents\Projetos .NET\ProjetoFinalMVCCore\ProjetoFinalMVCCore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrador\Documents\Projetos .NET\ProjetoFinalMVCCore\ProjetoFinalMVCCore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrador\Documents\Projetos .NET\ProjetoFinalMVCCore\ProjetoFinalMVCCore\obj\Debug\net6.0\ProjetoFinalMVCCore.MvcApplicationPartsAssemblyInfo.cs

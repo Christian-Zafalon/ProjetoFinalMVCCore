@@ -50,6 +50,8 @@ namespace ProjetoFinalMVCCore.Controllers
             return View();
         }
 
+
+
         // POST: Professors/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
@@ -135,6 +137,7 @@ namespace ProjetoFinalMVCCore.Controllers
             return View(professor);
         }
 
+
         // POST: Professors/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
@@ -151,5 +154,11 @@ namespace ProjetoFinalMVCCore.Controllers
             return _EFContext.Professor.Any(e => e.Id == id);
         }
 
+        // Fiz esta action Banana para realizar alguns testes, ai aproveitei para deixar ela e fazer um "Easter Egg" 
+        //no trabalho
+        public IActionResult Banana()
+        {
+            return View();
+        }
     }
 }
